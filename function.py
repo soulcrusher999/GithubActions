@@ -1,3 +1,3 @@
 def lambda_handler(event, context):
     print("Lambda initiated")
-    print("new commit")
+    print("new commit Verisk Workshop")
